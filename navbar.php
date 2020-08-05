@@ -9,7 +9,7 @@ function active($currect_page){
 ?>
 <nav>
     <div class="nav-wrapper deep-orange">
-        <a href="index.php" class="brand-logo center"><img src="/EndurancePolyProducers/images/Endurance5.png" width="200">
+        <a href="index.php" class="brand-logo center"><img src="./images/Endurance5.png" width="200">
         </a>
         <ul class="left hide-on-med-and-down">
             <li class="<?php active('index.php');?>"><a href="index.php">Home</a></li>
