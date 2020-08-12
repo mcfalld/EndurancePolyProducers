@@ -5,8 +5,7 @@
 <body>
 <?php include_once ('navbar.php'); ?>
    
-    <h1 class="center-align">My first paragraph.</h1>
-    <p class="material-tooltip">My first paragraph.</p>
+<p class="material-tooltip">My first paragraph.</p>
 
 
     <!--JavaScript at end of body for optimized loading-->
