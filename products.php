@@ -9,8 +9,9 @@
 <?php include_once ('navbar.php'); ?>
 </header>
 <main>
-    <h1 class="center-align">My first paragraph.</h1>
+    <h1 class="center-align">Our Products.</h1>
     <p class="material-tooltip">My first paragraph.</p>
+
 
 
 
