@@ -8,7 +8,7 @@ function active($currect_page){
 }
 ?>
 <nav>
-    <div class="nav-wrapper deep-orange">
+    <div class="nav-wrapper white">
         <a href="index.php" class="brand-logo center"><img src="/EndurancePolyProducers/images/Endurance5.png" width="200">
         </a>
         <ul class="left hide-on-med-and-down">
