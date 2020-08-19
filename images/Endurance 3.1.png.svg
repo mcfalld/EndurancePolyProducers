@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4439"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="Endurance 3.1.pdf">
+  <defs
+     id="defs4433">
+    <rect
+       x="23.886833"
+       y="86.659207"
+       width="128.04453"
+       height="15.554217"
+       id="rect5254" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-7.4993543 : 163.22095 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="202.50065 : 163.22095 : 1"
+       inkscape:persp3d-origin="97.500648 : 113.72095 : 1"
+       id="perspective5222" />
+    <pattern
+       inkscape:isstock="true"
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect2801"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <rect
+       x="31.172733"
+       y="68.839784"
+       width="158.89434"
+       height="50.65569"
+       id="rect4443" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.95258199"
+     inkscape:cx="397.32165"
+     inkscape:cy="314.08551"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="759"
+     inkscape:window-height="706"
+     inkscape:window-x="387"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4436">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Pipe">
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g5224"
+       style="opacity:0.9;fill:#0000ff;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:perspectiveID="#perspective5222"
+       inkscape:corner0="0.3080711 : 0.15727798 : 0 : 1"
+       inkscape:corner7="-0.023171717 : 0.07110939 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path5236"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="M 93.587179,64.605076 120.88048,45.928148 v 70.236882 l -27.293301,3.7447 z"
+         points="120.88048,45.928148 120.88048,116.16503 93.587179,119.90973 93.587179,64.605076 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path5226"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 72.771515,51.384468 v 65.874542 l 20.815664,2.65072 V 64.605076 Z"
+         points="72.771515,117.25901 93.587179,119.90973 93.587179,64.605076 72.771515,51.384468 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path5228"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="M 72.771515,51.384468 99.991395,23.444435 120.88048,45.928148 93.587179,64.605076 Z"
+         points="99.991395,23.444435 120.88048,45.928148 93.587179,64.605076 72.771515,51.384468 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path5234"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="m 72.771515,117.25901 27.21988,-5.60195 20.889085,4.50797 -27.293301,3.7447 z"
+         points="99.991395,111.65706 120.88048,116.16503 93.587179,119.90973 72.771515,117.25901 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path5232"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="m 99.991395,23.444435 v 88.212625 l 20.889085,4.50797 V 45.928148 Z"
+         points="99.991395,111.65706 120.88048,116.16503 120.88048,45.928148 99.991395,23.444435 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path5230"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="m 72.771515,51.384468 27.21988,-27.940033 v 88.212625 l -27.21988,5.60195 z"
+         points="99.991395,23.444435 99.991395,111.65706 72.771515,117.25901 72.771515,51.384468 " />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text5252"
+       style="font-size:10.58329999999999949px;line-height:1.25;font-family:Batang;-inkscape-font-specification:Batang;letter-spacing:1.89177083000000001px;white-space:pre;shape-inside:url(#rect5254);"
+       transform="translate(27.775387,-32.497203)"><tspan
+         x="23.886719"
+         y="97.067757"><tspan
+           style="fill:#000080">poly producers</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:label="Endurance"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text4441"
+       style="line-height:1.25;font-family:Batang;font-size:50.79999999999999716px;-inkscape-font-specification:Batang;white-space:pre;shape-inside:url(#rect4443);" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.75560000000000116px;line-height:10.1;font-family:Batang;-inkscape-font-specification:Batang;letter-spacing:-1.82562000000000002px;stroke:url(#Strips1_1);stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="38.965923"
+       y="53.253422"
+       id="text4449"><tspan
+         sodipodi:role="line"
+         id="tspan4447"
+         x="38.965923"
+         y="53.253422"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.75560000000000116px;font-family:'.Aqua Kana';-inkscape-font-specification:'.Aqua Kana Semi-Bold';fill:#ff6600;stroke:url(#Strips1_1);stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">ENDURANCE</tspan></text>
+  </g>
+</svg>
