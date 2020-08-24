@@ -12,7 +12,10 @@
 <main>
 <p class="material-tooltip">My first paragraph.</p>
 
+<div class="center">
+<img src="./images/warehouse1.jpg" width="500">
 
+</div>
 
 
 

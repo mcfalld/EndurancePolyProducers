@@ -9,7 +9,7 @@ function active($currect_page){
 ?>
 <nav>
     <div class="nav-wrapper white black-text">
-        <div><a href="index.php" class="brand-logo center"><img src="./images/Endurance5.png" width="200">
+        <div><a href="index.php" class="brand-logo center"><img src="./images/Endurance 3.1.png" height="150">
         </a></div>
         <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons black-text">menu</i></a>
         <ul class="left hide-on-med-and-down">
