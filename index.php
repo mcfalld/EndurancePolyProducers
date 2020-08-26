@@ -9,8 +9,8 @@
 <?php include_once ('navbar.php'); ?>
 </header>
 
-<main>
-<p class="material-tooltip">My first paragraph.</p>
+<main style="background-image: url(./images/warehouse2.jpg)", backgroud-size="100% 100%";>
+<!-- <p class="material-tooltip">My first paragraph.</p> -->
 
 <div class="center">
 <img src="./images/warehouse1.jpg" width="500">
