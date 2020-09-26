@@ -9,9 +9,10 @@
 <?php include_once ('navbar.php'); ?>
 </header>
 <main>
-    <h1 class="center-align">My first paragraph.</h1>
-    <p class="material-tooltip">My first paragraph.</p>
+    <h1 class="center-align">Contact Us</h1>
+    <!-- <p class="material-tooltip">My first paragraph.</p> -->
 
+<?php require_once('beautiful-contact-form-html\formpage.html'); ?>
 
 
 </main>
