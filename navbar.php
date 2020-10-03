@@ -11,10 +11,10 @@ function active($currect_page){
     <div class="navbar-fixed white black-text">
         
         <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons black-text">menu</i></a>
-        <div><a href="index.php" class="brand-logo center"><img src="./images/Endurance 3.1.2.png" height="50"></a></div>
+        <div><a href="index.php" class="brand-logo center"><img src="./images/Endurance5.png" height="50"></a></div>
 
         <ul class="left hide-on-med-and-down">
-            <li><div><a href="index.php" class="brand-logo center"><img src="./images/Endurance 3.1.2.png" height="50"></a></div></li>
+            <li><div><a href="index.php" class="brand-logo center"><img src="./images/Endurance5.png" height="50"></a></div></li>
             <li class="<?php active('index.php');?>"><a href="index.php" class="black-text">Home</a></li>
             <li class="<?php active('contact.php');?>"><a href="contact.php" class="black-text">Contact Us</a></li>
             <li class="<?php active('documents.php');?>"><a href="documents.php" class="black-text">Documents</a></li>
@@ -26,7 +26,7 @@ function active($currect_page){
     <ul class="side-nav" id="mobile-demo">
         <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons black-text">menu</i></a>
 
-        <a href="index.php"><img src="./images/Endurance 3.1.2.png" height="50"></a>
+        <a href="index.php"><img src="./images/Endurance5.png" height="50"></a>
         <li><a href="index.php">Home</a></li>
         <li><a href="contact.php">Contact Us</a></li>
         <li><a href="documents.php">Documents</a></li>

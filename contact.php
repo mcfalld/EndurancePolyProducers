@@ -12,6 +12,8 @@
     <h1 class="center-align">Contact Us</h1>
     <!-- <p class="material-tooltip">My first paragraph.</p> -->
 
+    <div class="loading">Coming Soon</div>
+
 <?php require_once('beautiful-contact-form-html\formpage.html'); ?>
 
 

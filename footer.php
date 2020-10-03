@@ -1,5 +1,5 @@
 <footer class="page-footer grey lighten-4">
-  <div class="container">
+  <div class="container" style="font-family:Work Sans">
     <div class="row">
       <div class="col l6 s12">
         <!-- <ul> -->

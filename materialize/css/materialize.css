@@ -2250,7 +2250,7 @@ hr {
  */
 
 pre {
-    font-family: monospace, monospace;
+    font-family: 'Work Sans', sans-serif;
     /* 1 */
     font-size: 1em;
     /* 2 */
@@ -2319,7 +2319,7 @@ strong {
 code,
 kbd,
 samp {
-    font-family: monospace, monospace;
+    font-family: 'Work sans', monospace, monospace;
     /* 1 */
     font-size: 1em;
     /* 2 */
@@ -2432,7 +2432,7 @@ input,
 optgroup,
 select,
 textarea {
-    font-family: sans-serif;
+    font-family: 'Work Sans', sans-serif;
     /* 1 */
     font-size: 100%;
     /* 1 */
@@ -4662,7 +4662,7 @@ a {
 
 html {
     line-height: 1.5;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-family:  "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Work Sans", "Helvetica Neue", sans-serif;
     font-weight: normal;
     color: rgba(0, 0, 0, 0.87);
 }
@@ -4701,6 +4701,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
+    font-family: 'Work Sans';
     font-weight: inherit;
 }
 
@@ -9420,10 +9421,14 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    background-image: url('../../images/background.jpg');
+
 }
 
 main {
     flex: 1 0 auto;
+    background-image: url('../../images/background.jpg');
+
 }
 
 .material-icons {
@@ -9434,3 +9439,25 @@ main {
 #footerText {
     line-height: 24px;
 }
+
+.loading:after {
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: bottom;
+    -webkit-animation: ellipsis steps(4,end) 900ms infinite;      
+    animation: ellipsis steps(4,end) 900ms infinite;
+    content: "\2026"; /* ascii code for the ellipsis character */
+    width: 0px;
+  }
+  
+  @keyframes ellipsis {
+    to {
+      width: 20px;    
+    }
+  }
+  
+  @-webkit-keyframes ellipsis {
+    to {
+      width: 20px;    
+    }
+  }
