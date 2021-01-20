@@ -8,11 +8,8 @@
 <!-- navbar -->
 <?php include_once ('navbar.php'); ?>
 </header>
-<main>
-    <h1 class="center-align">Contact Us</h1>
-    <!-- <p class="material-tooltip">My first paragraph.</p> -->
+<main style="@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap'); background: url('./images/background.jpg')" class="white-text">
 
-    <div class="loading">Coming Soon</div>
 
 <?php require_once('beautiful-contact-form-html\formpage.html'); ?>
 

@@ -8,7 +8,8 @@
 <!-- navbar -->
 <?php include_once ('navbar.php'); ?>
 </header>
-<main>
+<main style="@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap'); background: url('./images/background.jpg')" class="white-text">
+
     <h1 class="center-align">Meet the team</h1>
     <!-- <p class="material-tooltip">My first paragraph.</p> -->
 

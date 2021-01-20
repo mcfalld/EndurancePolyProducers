@@ -2581,7 +2581,7 @@ video.responsive-video {
     float: none;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1100px) {
     .pagination {
         width: 100%;
     }
@@ -2685,7 +2685,13 @@ ul.staggered-list li {
     }
 }
 
-@media only screen and (max-width: 992px) {
+/* @media only screen and (min-width: 780px) {
+    .hide-on-med-and-down {
+        display: none !important;
+    }
+} */
+
+@media only screen and (max-width: 700px) {
     .hide-on-med-and-down {
         display: none !important;
     }
@@ -2697,7 +2703,7 @@ ul.staggered-list li {
     }
 }
 
-@media only screen and (min-width: 600px) and (max-width: 992px) {
+@media only screen and (min-width: 600px) and (max-width: 1100px) {
     .hide-on-med-only {
         display: none !important;
     }
@@ -2727,7 +2733,7 @@ ul.staggered-list li {
     }
 }
 
-@media only screen and (min-width: 600px) and (max-width: 992px) {
+@media only screen and (min-width: 600px) and (max-width: 1100px) {
     .show-on-medium {
         display: block !important;
     }
@@ -2745,7 +2751,7 @@ ul.staggered-list li {
     }
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1100px) {
     .show-on-medium-and-down {
         display: block !important;
     }
@@ -2835,7 +2841,7 @@ th {
     border-radius: 2px;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1100px) {
     table.responsive-table {
         width: 100%;
         border-collapse: collapse;
@@ -4161,7 +4167,7 @@ nav .brand-logo.center {
     transform: translateX(-50%);
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1100px) {
     nav .brand-logo {
         left: 50%;
         -webkit-transform: translateX(-50%);
@@ -4340,7 +4346,7 @@ html {
     }
 }
 
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 1100px) {
     html {
         font-size: 14.5px;
     }
@@ -4820,7 +4826,7 @@ small {
     }
 }
 
-@media only screen and (min-width: 601px) and (max-width: 992px) {
+@media only screen and (min-width: 601px) and (max-width: 1100px) {
     #toast-container {
         left: 5%;
         bottom: 7%;
@@ -4977,7 +4983,7 @@ small {
     will-change: left, right;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1100px) {
     .tabs {
         display: -webkit-box;
         display: -webkit-flex;
@@ -5658,7 +5664,7 @@ body.keyboard-focused .dropdown-content li:focus {
     outline: none;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1100px) {
     .modal {
         width: 80%;
     }
@@ -6508,7 +6514,7 @@ textarea.materialize-textarea+label:after,
     margin-left: 3rem;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1100px) {
     .input-field .prefix~input {
         width: 86%;
         width: calc(100% - 3rem);
@@ -7594,7 +7600,7 @@ input[type="range"]::-ms-thumb {
     left: auto;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1100px) {
     .sidenav.sidenav-fixed {
         -webkit-transform: translateX(-105%);
         transform: translateX(-105%);

@@ -10,15 +10,14 @@
 <?php require_once'navbar.php'; ?>
 </header>
 
-<main style="@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap'); background: url('./images/background.jpg')">
+<main style="@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap'); background: url('./images/background.jpg')" class="white-text">
 <!-- <p class="material-tooltip">My first paragraph.</p> -->
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 </style> 
 <div class="center">
-<!-- <img src="./images/background.jpg"> -->
 
-<h1 class="white-text"> Endurance Poly Producers </h1>
+<h1> Endurance Poly Producers </h1>
 
 
 
