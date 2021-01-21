@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html style='background: url("./images/background.jpg")'>
 
-<?php include_once ('head.php'); ?>
+<?php include ('head.php'); ?>
     
 <body>
 <header>
@@ -17,7 +17,7 @@
 </style> 
 <div class="center">
 
-<h1> Endurance Poly Producers </h1>
+<h1 style="font-family: Work Sans"> Endurance Poly Producers </h1>
 
 
 

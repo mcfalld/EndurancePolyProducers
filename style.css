@@ -1,12 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+html{
+    font-family: "Work Sans", Work Sans;
+    font-size: 1.75vw;
+
+}
+
 body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    font-family: 'Work Sans', Work Sans;
+    font-size: 1.75vw;
+
 }
 
 main {
     flex: 1 0 auto;
+    font-family: 'Work Sans', Work Sans;
+    font-size: 1.75vw;
+
 }
+
 
 .nav-wrapper {
     color: black;
@@ -19,4 +34,18 @@ ul {
 
 li {
     color: black;
+    /* font-size: 2vw; */
+
+}
+
+td { 
+    width: 50%;
+}
+
+.page-footer{
+    font-size: 1.75vw;
+}
+
+.homelink{
+    font-size: 1.5vw;
 }

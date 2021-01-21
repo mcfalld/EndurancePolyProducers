@@ -1,4 +1,4 @@
-<footer class="page-footer grey lighten-4">
+<footer class="page-footer grey lighten-2">
   <div class="container" style="font-family:Work Sans">
     <div class="row">
       <div class="col l6 s12">

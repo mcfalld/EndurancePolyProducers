@@ -1,12 +1,15 @@
 <head>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <title>
         Endurance Poly Producers
     </title>
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" type="text/javascript"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
 
@@ -34,6 +37,7 @@
     animation: ellipsis steps(4,end) 900ms infinite;
     content: "\2026"; /* ascii code for the ellipsis character */
     width: 0px;
+    
   }
   
   @keyframes ellipsis {
