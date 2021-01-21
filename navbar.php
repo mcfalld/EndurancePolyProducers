@@ -13,7 +13,7 @@ function active($currect_page){
         
         <a href="#" data-activates="slide-out" class="button-collapse "><i class="material-icons black-text">menu</i></a>
 
-        <div><a href="index.php" class="brand-logo center"><img src="./images/Endurance5.png" height="50"></a></div>
+        <div><a href="index.php" class="brand-logo center"><img src="./images/enduranceLogo.png" height="55"></a></div>
         <ul class="left hide-on-med-and-down">
             <!-- <li class="<?php active('index.php');?>"><a href="index.php" class="black-text">Home</a></li> -->
             <li class="<?php active('contact.php');?>" ><a href="contact.php" class="homelink black-text">Contact Us</a></li>

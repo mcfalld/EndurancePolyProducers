@@ -8,11 +8,11 @@
 <!-- navbar -->
 <?php include_once ('navbar.php'); ?>
 </header>
-<main style="@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap'); background: url('./images/background.jpg')" class="white-text">
+<main style="background: url('./images/background.jpg')" class="white-text">
 
    
-    <h1 class="center-align">My first paragraph.</h1>
-    <p class="material-tooltip">My first paragraph.</p>
+    <h1 class="center-align">my first paragraph.</h1>
+
 
 
 
