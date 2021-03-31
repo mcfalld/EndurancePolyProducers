@@ -20,6 +20,8 @@ function active($currect_page){
             <li class="<?php active('documents.php');?>"><a href="documents.php" class="homelink black-text">Documents</a></li>
             <li class="<?php active('about.php');?>"><a href="about.php" class="homelink black-text">About Us</a></li>
             <li class="<?php active('products.php');?>"><a href="products.php" class="homelink black-text">Products</a></li>
+            <li class="<?php active('test.php');?>"><a href="test.php" class="homelink black-text">test</a></li>
+
             <li></li>
 <!-- style="margin: auto auto auto 100px" -->
 
