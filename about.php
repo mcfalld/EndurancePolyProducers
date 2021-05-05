@@ -30,7 +30,7 @@
             <td class="z-depth-5"><img class="responsive-img" src="images\DanFam.jpeg" style="width:500px"></td>
           </tr>
           <tr>
-            <td class="z-depth-5"><img class="responsive-img" src="images\DanFam.jpeg" style="width:500px"></td>
+            <td class="z-depth-5"><img class="responsive-img" src="images\Jensen.jpg" style="width:500px"></td>
             <td>Jensen Massengale <br> some text about jensen</td>
           </tr>
         </tbody>

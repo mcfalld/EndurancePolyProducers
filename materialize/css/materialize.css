@@ -9481,3 +9481,7 @@ main {
   main{
     font-family: Work Sans, "Work Sans";
 }
+
+select {
+    display: inline-block;
+}

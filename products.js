@@ -1,4 +1,4 @@
-var subjectObject = {
+var colorObject = {
       "Orange": {
         "HTML": ["Links", "Images", "Tables", "Lists"],
         "CSS": ["Borders", "Margins", "Backgrounds", "Float"],
@@ -10,26 +10,26 @@ var subjectObject = {
       }
     }
     window.onload = function() {
-      var subjectSel = document.getElementById("color");
-      var topicSel = document.getElementById("size");
+      var colorSel = document.getElementById("color");
+      var sizeSel = document.getElementById("size");
       var chapterSel = document.getElementById("chapter");
-      for (var x in subjectObject) {
-        subjectSel.options[subjectSel.options.length] = new Option(x, x);
+      for (var x in colorObject) {
+        colorSel.options[colorSel.options.length] = new Option(x, x);
       }
-      subjectSel.onchange = function() {
-        //empty Chapters- and Topics- dropdowns
+      colorSel.onchange = function() {
+        //empty Chapters- and sizes- dropdowns
         chapterSel.length = 1;
-        topicSel.length = 1;
+        sizeSel.length = 1;
         //display correct values
-        for (var y in subjectObject[this.value]) {
-          topicSel.options[topicSel.options.length] = new Option(y, y);
+        for (var y in colorObject[this.value]) {
+          sizeSel.options[sizeSel.options.length] = new Option(y, y);
         }
       }
-      topicSel.onchange = function() {
+      sizeSel.onchange = function() {
         //empty Chapters dropdown
         chapterSel.length = 1;
         //display correct values
-        var z = subjectObject[subjectSel.value][this.value];
+        var z = colorObject[colorSel.value][this.value];
         for (var i = 0; i < z.length; i++) {
           chapterSel.options[chapterSel.options.length] = new Option(z[i], z[i]);
         }

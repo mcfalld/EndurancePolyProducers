@@ -23,11 +23,17 @@
 
 </div>
 
-<h3 class="center white-text">Run with endurance</h3>
+<div class="center" style="margin: auto; width: 65%;">
+<img src="./images/firstShipment.jpg" style="width:650px;">
+<p> 
+Now shipping orders. For assistance with an order contact the <a href="mailto:sales@endurancepoly.com">sales team</a>, 
+or use the contact form <a href="contact.php">here</a>.
+</p>
+</div>
 
 
+<h4 class="center white-text">Run with endurance</h3>
 
-<div class="center loading white-text">Coming soon</div>
     <!--JavaScript at end of body for optimized loading-->
     <script type="text/javascript" src="js/materialize.min.js"></script>
 </main>

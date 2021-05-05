@@ -7022,7 +7022,7 @@ input[type="checkbox"]:not(:disabled).tabbed:focus~.lever::before {
 }
 
 select {
-    display: none;
+    display: inline-block;
 }
 
 select.browser-default {
@@ -8934,4 +8934,8 @@ main{
 
   main{
     font-family: Work Sans, "Work Sans";
+}
+
+select {
+    display: inline-block;
 }

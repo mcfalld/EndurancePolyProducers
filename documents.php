@@ -23,7 +23,12 @@
     </tr>
     <tr>
     <td>
-    <a href='docs\Conduit Material Spec Sheet.pdf'>Conduit Material Spec Sheet</a>
+    <a href='/docs/Conduit Material Spec Sheet.pdf'>Conduit Material Spec Sheet</a>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <a href='/docs/Pipe Dimensions Spec Sheet.pdf'>Pipe Dimensions Spec Sheet</a>
     </td>
     </tr>
     
