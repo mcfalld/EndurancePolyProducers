@@ -13,8 +13,8 @@
    
     <!-- <h1 class="center-align"></h1> -->
 
-    <div class="centered" style="margin: 50px auto 0 auto; text-align: center">
-    <table class="centered stripped"style="background:darkgrey; width: 50%; margin:0 auto 0 auto">
+    <div class="centered stripped" style="margin: 50px auto 0 auto; text-align: center">
+    <table class="centered"style="background:grey; width: 50%; margin:0 auto 0 auto">
     <colgroup>
     <col  />
 </colgroup>

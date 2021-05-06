@@ -11,7 +11,7 @@
 <main style="@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap'); background: url('./images/background.jpg')" class="white-text">
 
 
-<?php require_once('beautiful-contact-form-html\formpage.html'); ?>
+<?php require('beautiful-contact-form-html\formpage.html'); ?>
 
 
 </main>

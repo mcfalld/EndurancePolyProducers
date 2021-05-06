@@ -26,8 +26,8 @@
 <div class="center" style="margin: auto; width: 85%;">
 <img src="./images/firstShipment.jpg" style="width:100%;">
 <p class="center" style="margin: auto; width:77%;"> 
-Now shipping orders. For assistance with an order contact the <a href="mailto:sales@endurancepoly.com">sales team</a>, 
-or use the contact form <a href="contact.php">here</a>.
+Now shipping orders. For questions or assistance with an order contact the <a href="mailto:sales@endurancepoly.com">sales team</a>. 
+<!-- or use the contact form <a href="contact.php">here</a>. -->
 </p>
 </div>
 
