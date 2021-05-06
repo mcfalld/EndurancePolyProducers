@@ -16,7 +16,7 @@ function active($currect_page){
         <div><a href="index.php" class="brand-logo center"><img src="./images/enduranceLogo.png" height="55" style="margin:auto auto 7px auto;"></a></div>
         <ul class="left hide-on-med-and-down">
             <li class="<?php active('index.php');?>"><a href="index.php" class="homelink black-text">Home</a></li>
-            <li class="<?php active('contact.php');?>" ><a href="contact.php" class="homelink black-text">Contact Us</a></li>
+            <!-- <li class="<?php active('contact.php');?>" ><a href="contact.php" class="homelink black-text">Contact Us</a></li> -->
             <li class="<?php active('documents.php');?>"><a href="documents.php" class="homelink black-text">Documents</a></li>
             <li class="<?php active('about.php');?>"><a href="about.php" class="homelink black-text">About Us</a></li>
             <!-- <li class="<?php active('products.php');?>"><a href="products.php" class="homelink black-text">Products</a></li> -->
@@ -31,7 +31,7 @@ function active($currect_page){
 
     <ul class="side-nav" id="slide-out">
         <li><a href="index.php">Home</a></li>
-        <li><a href="contact.php">Contact Us</a></li>
+        <!-- <li><a href="contact.php">Contact Us</a></li> -->
         <li><a href="documents.php">Documents</a></li>
         <li><a href="about.php">About Us</a></li>
         <!-- <li><a href="products.php">Products</a></li> -->
