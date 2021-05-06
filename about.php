@@ -20,18 +20,18 @@
         <tbody>
           <tr>
             <td class="z-depth-5"><img class="responsive-img" src="images\DanFam.jpeg" style="width:500px"></td>
-            <td class><p> Chris Massengale Owner/Operations <br>30 years of experience in the polyethylene manufacturing industry.</p></td>
+            <td class><p> Chris Massengale Owner/Operations <br><br>30 years of experience in the polyethylene manufacturing industry.</p></td>
             
           </tr>
           <tr>
             <!-- <td class="z-depth-5"><img class="responsive-img" src="images\DanFam.jpeg" style="width:500px"></td> -->
 
-            <td>Daniel McFall Owner/Sales<br> With over a decade of industry sales experience, Daniel emphasizes customer service as the foundation for success.</td>
+            <td>Daniel McFall Owner/Sales<br><br> With over a decade of industry sales experience, Daniel emphasizes customer service as the foundation for success.</td>
             <td class="z-depth-5"><img class="responsive-img" src="images\DanFam.jpeg" style="width:500px"></td>
           </tr>
           <tr>
             <td class="z-depth-5"><img class="responsive-img" src="images\Jensen.jpg" style="width:500px"></td>
-            <td>Jensen Massengale Owner/Procurement<br> some text about jensen</td>
+            <td>Jensen Massengale Owner/Procurement<br><br> some text about jensen</td>
           </tr>
         </tbody>
       </table>
