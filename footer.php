@@ -25,7 +25,7 @@
   </div>
   <div class="black-text footer-copyright">
     <div class="container">
-      © 2021 Endurance Poly Producers. All Rights Reserved.
+      © 2021 Endurance Poly Producers, LLC. All Rights Reserved.
       <!-- <a class="black-text text-lighten-4 right" href="#!">More Links</a> -->
     </div>
   </div>

@@ -11,7 +11,7 @@
 <main style="@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap'); background: url('./images/background.jpg')" class="white-text">
 
 <div class="card-panel hoverable z-depth-2" style="width:60%; margin:20px auto">
-    <p class="center-align black-text">Our Mission:<br>Provide pressure piping systems at competitive prices with short lead-times and an essential partner for vendors and customers alike.</p>
+    <p class="center-align black-text">Our Mission:<br>Provide HDPE piping systems at competitive prices with short lead-times and an essential partner for vendors and customers alike.</p>
 </div>
 
 <div style="width:85%; margin:auto;">
@@ -20,18 +20,18 @@
         <tbody>
           <tr>
             <td class="z-depth-5"><img class="responsive-img" src="images\DanFam.jpeg" style="width:500px"></td>
-            <td class><p> Chris Massengale <br>30 years of experience in the polyethylene manufacturing industry.</p></td>
+            <td class><p> Chris Massengale Owner/Operations <br>30 years of experience in the polyethylene manufacturing industry.</p></td>
             
           </tr>
           <tr>
             <!-- <td class="z-depth-5"><img class="responsive-img" src="images\DanFam.jpeg" style="width:500px"></td> -->
 
-            <td>Daniel McFall <br> some text about daniel</td>
+            <td>Daniel McFall Owner/Sales<br> With over a decade of industry sales experience, Daniel emphasizes customer service as the foundation for success.</td>
             <td class="z-depth-5"><img class="responsive-img" src="images\DanFam.jpeg" style="width:500px"></td>
           </tr>
           <tr>
             <td class="z-depth-5"><img class="responsive-img" src="images\Jensen.jpg" style="width:500px"></td>
-            <td>Jensen Massengale <br> some text about jensen</td>
+            <td>Jensen Massengale Owner/Procurement<br> some text about jensen</td>
           </tr>
         </tbody>
       </table>
