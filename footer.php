@@ -14,8 +14,8 @@
         <h5 class="black-text">Links</h5>
         <ul>
           <li><a class="black-text text-lighten-3" href="index.php">Home</a></li>
-          <li><a class="black-text text-lighten-3" href="contact.php">Contact Us</a></li>
-          <li><a class="black-text text-lighten-3" href="products.php">Products</a></li>
+          <!-- <li><a class="black-text text-lighten-3" href="contact.php">Contact Us</a></li> -->
+          <!-- <li><a class="black-text text-lighten-3" href="products.php">Products</a></li> -->
           <li><a class="black-text text-lighten-3" href="documents.php">Documents</a></li>
           <li><a class="black-text text-lighten-3" href="about.php">About Us</a></li>
 
