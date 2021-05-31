@@ -19,7 +19,7 @@
     <!-- style="max-width:940px; margin:auto" -->
         <tbody>
           <tr>
-            <td class="z-depth-5"><img class="responsive-img" src="images\DanFam.jpeg" style="width:500px"></td>
+            <td class="z-depth-5"><img class="responsive-img" src="images\DanFam1.jpeg" style="width:500px"></td>
             <td class><p> Chris Massengale Owner/Operations <br><br>30 years of experience in the polyethylene manufacturing industry.</p></td>
             
           </tr>
@@ -31,7 +31,7 @@
           </tr>
           <tr>
             <td class="z-depth-5"><img class="responsive-img" src="images\Jensen.jpg" style="width:500px"></td>
-            <td>Jensen Massengale Owner/Procurement<br><br> some text about jensen</td>
+            <td>Jensen Massengale Owner/Procurement<br><br>10 years of experience in the polyethylene manufacturing industry.</td>
           </tr>
         </tbody>
       </table>
