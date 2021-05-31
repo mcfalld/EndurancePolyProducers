@@ -17,7 +17,7 @@
 </style> 
 <div class="center">
 
-<h1 style="font-family: Work Sans"> Endurance Poly Producers </h1>
+<h1 style="font-family: Work Sans">Run with Endurance</h1>
 
 
 
@@ -32,7 +32,7 @@ Now shipping orders. For questions or assistance with an order contact the <a hr
 </div>
 
 
-<h4 class="center white-text">Run with Endurance</h3>
+<h4 class="center white-text"></h3>
 
     <!--JavaScript at end of body for optimized loading-->
     <script type="text/javascript" src="js/materialize.min.js"></script>
