@@ -30,12 +30,21 @@ function active($currect_page){
     </div>
 
     <ul class="side-nav" id="slide-out">
-        <li><a href="index.php">Home</a></li>
+        <li class="side"><a href="index.php">Home</a></li>
         <!-- <li><a href="contact.php">Contact Us</a></li> -->
-        <li><a href="documents.php">Documents</a></li>
-        <li><a href="about.php">About Us</a></li>
+        <li class="side"><a href="documents.php">Documents</a></li>
+        <li class="side"><a href="about.php">About Us</a></li>
         <!-- <li><a href="products.php">Products</a></li> -->
   </ul>
 
 
 </nav>
+
+<!-- <script>
+$('.button-collapse').sideNav({
+      menuWidth: 300, // Default is 240
+      edge: 'left', // Choose the horizontal origin
+      closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
+    }
+  );
+</script> -->

@@ -17,7 +17,7 @@
 </style> 
 <div class="center">
 
-<h1 style="font-family: Work Sans">Run with Endurance</h1>
+<span class="head1" style="font-family: Work Sans; padding-top: 20px">Run with Endurance</span> <br>
 
 
 
@@ -28,6 +28,9 @@
 <p class="center" style="margin: auto; width:77%;"> 
 Now shipping orders. For questions or assistance with an order contact the <a href="mailto:sales@endurancepoly.com">sales team</a>. 
 <!-- or use the contact form <a href="contact.php">here</a>. -->
+</p>
+<br>
+<p style="margin: auto; width:77%;">For questions regarding Shipping or Receiving Contact us at <a href="tel:+14782320392">(478) 232-0392</a>
 </p>
 </div>
 

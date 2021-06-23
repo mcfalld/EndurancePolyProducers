@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 
-html{
+html {
     font-family: "Work Sans", Work Sans;
     font-size: 1.75vw;
 
@@ -18,7 +18,7 @@ body {
 main {
     flex: 1 0 auto;
     font-family: 'Work Sans', Work Sans;
-    font-size: 1.75vw;
+    /* font-size: 1.75vw; */
 
 }
 
@@ -38,14 +38,86 @@ li {
 
 }
 
-td { 
+td {
     width: 50%;
 }
 
-.page-footer{
-    font-size: 1.75vw;
+.page-footer {
+    /* font-size: 1.75vw; */
 }
 
-.homelink{
+.homelink {
     font-size: 1.5vw;
+}
+
+.head1 {
+    font-size: 6vw;
+
+}
+
+.head2 {
+    font-size: 5.25vw;
+
+}
+
+.head3 {
+    font-size: 4.5vw;
+
+}
+
+.head4 {
+    font-size: 4vw;
+
+}
+
+.head5 {
+    font-size: 3.5vw;
+
+}
+
+.head6 {
+    font-size: 3vw;
+
+}
+p {
+    font-size: 2.5vw;
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+    /* div {
+        font-size: 2vw;
+    } */
+
+    li.side {
+        font-size: 3vw;
+    }
+
+    div.navbar {
+        min-height: 15%;
+    }
+
+    li.page-footer a.page-footer {
+        font-size: 3vw;
+    }
+
+    .navbar-fixed {
+        height: 75px;
+    }
+
+    .material-icons {
+        font-size: 8vw;
+    }
+
+}
+
+/* @media screen and (min-width: 767px) {
+    span.head1 {
+        font-size: 6vw;
+    }
+
+} */
+
+.side-nav li>a {
+    font-size: 6vw;
 }

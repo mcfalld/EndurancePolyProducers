@@ -3,15 +3,20 @@
     <div class="row">
       <div class="col l6 s12">
         <!-- <ul> -->
-        <h5 class="black-text ">Information</h5>
+        <p class="head4 black-text ">Information</p>
+        <span class="head5 black-text ">Orders:</span>
+        <br>
         <a href="tel:+14172541191"><i class="tiny material-icons black-text">phone</i> <span class="black-text text-lighten-4" style="line-height: 12px;" id="footerText">(417) 254-1191</span></a>
         <br>
         <a href="mailto:daniel@endurancepoly.com"><i class="tiny material-icons black-text">email</i> <span class="black-text text-lighten-4" style="line-height: 12px;" id="footerText">Email Us</span></a>
-<br>
+        <br>
+        <span class="head5 black-text ">Shipping/Receiving:</span><br>
+        <a href="tel:+14782320392"><i class="tiny material-icons black-text">phone</i> <span class="black-text text-lighten-4" style="line-height: 12px;" id="footerText">⁨(478) 232-0392</span></a>
+
         <!-- </ul> -->
       </div>
       <div class="col l4 offset-l2 s12">
-        <h5 class="black-text">Links</h5>
+        <p class="head4 black-text">Links</p>
         <ul>
           <li><a class="black-text text-lighten-3" href="index.php">Home</a></li>
           <!-- <li><a class="black-text text-lighten-3" href="contact.php">Contact Us</a></li> -->
